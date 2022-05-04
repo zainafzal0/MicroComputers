@@ -1,6 +1,6 @@
 # Micro_Computers
 
-# Developed by: [Zain Afzal](https://github.com/zainafzal0/)
+# Developed by: [Zain Afzal](https://github.com/zainafzal0/) [Daanyaal Tahir](https://github.com/DaanyaalTahir/)
 
 ## Dependencies
 
