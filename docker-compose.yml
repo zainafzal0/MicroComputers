@@ -43,7 +43,7 @@ services:
       - micro_computers
     environment:
       - MYSQL_ROOT_USER=root
-      - MYSQL_ROOT_PASSWORD=poopee
+      - MYSQL_ROOT_PASSWORD=test
       - MYSQL_DATABASE=micro_computers_db
 networks:
   micro_computers:
